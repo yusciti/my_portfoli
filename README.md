@@ -1,4 +1,4 @@
-# Data Scientist PORTFOLIO
+# DATA SCIENTIST PORTFOLIO
 
 A portfolio website template for campers
 
